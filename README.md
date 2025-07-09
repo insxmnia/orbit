@@ -26,5 +26,5 @@
 - #### And as always "Stay Frosty ❄️"
 ---------------------------
 ## 📣 Builds & Information
-#### Latest Windows Build [Download Here](https://github.com/Exodus-20-2/Orbit/releases/download/Orbit/Orbit.zip)
+#### Latest Windows Build [Download Here]()
 #### Current Version `1.0.1`
