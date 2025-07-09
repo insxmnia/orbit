@@ -1,0 +1,103 @@
+# Build results
+**/bin/
+**/obj/
+Orbit/bin/
+Orbit/obj/
+
+[Ll]og/
+[Bb]uild/
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
+*.mdb
+
+# VS and Rider user files
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MonoDevelop
+*.userprefs
+
+# Windows Forms designer-generated files
+*.Designer.cs
+
+# Backup & cache files
+*.bak
+*.tmp
+*.temp
+*.old
+
+# Auto-generated database files
+*.dbmdl
+*.mdf
+*.ldf
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.assets.json
+PackageLock.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework Migrations
+Migrations/
+
+# Local test results
+TestResults/
+*.trx
+
+# Logs
+*.log
+
+# Web server settings
+.launchSettings.json
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# JetBrains Rider & ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Environment-specific
+.env
+.env.*
+
+# Others
+*.ncrunch*
+*.ndepend
+*.vspscc
+*.vssscc
+*.code-workspace
+
+# Publish
+publish/
+*.publishsettings
